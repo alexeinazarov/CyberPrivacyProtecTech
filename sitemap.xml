@@ -10,7 +10,7 @@
                             https://alexeinazarov.github.io/schemas/custom_schema/custom_schema.xsd">
     <url>
         <loc>https://alexeinazarov.github.io/CyberPrivacyProtecTech/</loc>
-        <lastmod>2024-08-07T12:10:12+00:00</lastmod>
+        <lastmod>2024-08-07T12:22:27+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
         <image:image>
@@ -53,7 +53,7 @@
     
     <url>
         <loc>https://alexeinazarov.github.io/CyberPrivacyProtecTech/index_en/</loc>
-        <lastmod>2024-08-07T12:08:25+00:00</lastmod>
+        <lastmod>2024-08-07T12:20:21+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
         
@@ -67,7 +67,7 @@
     
     <url>
         <loc>https://alexeinazarov.github.io/CyberPrivacyProtecTech/index_pt/</loc>
-        <lastmod>2024-08-07T12:08:25+00:00</lastmod>
+        <lastmod>2024-08-07T12:20:21+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
         
@@ -81,12 +81,12 @@
     
     <url>
         <loc>https://alexeinazarov.github.io/CyberPrivacyProtecTech/logo/</loc>
-        <lastmod>2024-08-07T12:08:25+00:00</lastmod>
+        <lastmod>2024-08-07T12:20:21+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
         
         
-        <custom:keywords>{{ site.keywords | split: ', ' | sample: 23 | join: ', ' }}</custom:keywords>
+        <custom:keywords>CyberPrivacyProtecTech, digital security, central shield, robust protection, data guardian, cybersecurity measures, secure data handling, privacy protection, mobile security, smartphone security, encrypted data, unauthorized access prevention, invisible device security, global cybersecurity, space technology, cryptographic keys, secure access control, network security, cryptographic techniques, network infrastructure protection, Eiffel Tower, Paris technology influence, high technology, cultural excellence, localized cybersecurity solutions, crossed keys, classical heraldry, mathematical security, client data protection, trust and expertise, superior cybersecurity services, digital life protection, state-of-the-art technology, meticulous strategies, pure mathematics, cryptography expertise, Machine Learning, Artificial Intelligence, secure digital solutions, resilient cybersecurity, confidential data handling, mobile device security, battery symbol, lock symbol, global reach, precision security, reliable cybersecurity solutions, advanced encryption, secure network systems, educational excellence in technology, mathematically proven security, inviolable security measures, unwavering dedication, impartial mathematics, proven security principles, advanced technology, data privacy, cyber threats protection, comprehensive cybersecurity, personal information safety, professional information safety, design, art, creativity, artistic design, creative logo, emblem design, artistic elements, creative combinations, visual design, logo art, design aesthetics, artistic creativity, creative security design, innovative logo design, design principles, artful security logo, creative emblem, artistic creativity, design excellence, aesthetic design, artistic expression, creative imagery, visual creativity, artistic emblem, design innovation, creative symbolism, design artistry, artful emblem, creative design elements</custom:keywords>
         
         <custom:link rel="canonical" href="https://alexeinazarov.github.io/CyberPrivacyProtecTech/logo/" />
     </url>
@@ -109,7 +109,7 @@
     
     <url>
         <loc>https://alexeinazarov.github.io/CyberPrivacyProtecTech/favicon.ico</loc>
-        <lastmod>2024-08-07T12:09:02+00:00</lastmod>
+        <lastmod>2024-08-07T12:21:05+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
         <custom:keywords>Favicon, CyberPrivacyProtecTech, cybersecurity, privacy, data protection, consulting, Paris, Alexey Nazarov</custom:keywords>
