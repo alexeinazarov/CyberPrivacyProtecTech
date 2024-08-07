@@ -3473,3 +3473,4 @@ lunr.QueryParser.parseBoost = function (parser) {
     return lunr
   }))
 })();
+
