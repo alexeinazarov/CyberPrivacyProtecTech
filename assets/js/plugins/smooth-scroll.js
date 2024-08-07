@@ -648,5 +648,3 @@
 	return SmoothScroll;
 
 }));
-
-

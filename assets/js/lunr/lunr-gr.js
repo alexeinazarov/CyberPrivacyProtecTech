@@ -520,5 +520,3 @@ $(document).ready(function() {
     }
   });
 });
-
-
