@@ -1,150 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
-        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
-        xmlns:custom="https://alexeinazarov.github.io/schemas/custom_schema"
-        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd
-                            http://www.google.com/schemas/sitemap-image/1.1 https://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd
-                            http://www.google.com/schemas/sitemap-news/0.9 https://www.google.com/schemas/sitemap-news/0.9/sitemap-news.xsd
-                            https://alexeinazarov.github.io/schemas/custom_schema/custom_schema.xsd">
-    <url>
-        <loc>https://alexeinazarov.github.io/CyberPrivacyProtecTech/</loc>
-        <lastmod>2024-08-07T13:14:16+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.9</priority>
-        <image:image>
-            <image:loc>https://alexeinazarov.github.io/CyberPrivacyProtecTech/assets/images/logo.webp</image:loc>
-            <image:title>Cyber Privacy Protection Tech Logo</image:title>
-            <image:caption>Logo of Cyber Privacy Protection Tech, conseil en cybersécurité personalisé à Paris.</image:caption>
-        </image:image>
-        <custom:keywords>
-            cybersecurity, privacy, data protection, consulting, Paris, Alexey Nazarov, CyberPrivacyProtecTech
-        </custom:keywords>
-    </url>
-
-    
-    <url>
-        <loc>https://alexeinazarov.github.io/CyberPrivacyProtecTech/2024/08/02/github-gist.html</loc>
-        <lastmod>2024-08-04T00:00:00+00:00</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-        
-        
-        <custom:keywords>WhatsApp monitoring, Environment setup, Audio monitoring, Video monitoring, Contacts monitoring, Cookies monitoring, Data interaction, Dynamic instrumentation, Frida, Filesystem monitoring, inotifywait, Network traffic monitoring, mitmproxy, Wireshark, Linux host machine, Android Studio, Genymotion, Rooted Android emulator, Android development, Linux command-line tools, adb, Android Debug Bridge, Monitoring scripts, Cybersecurity tools, Privacy concerns, Data security</custom:keywords>
-        
-        <custom:link rel="canonical" href="https://alexeinazarov.github.io/CyberPrivacyProtecTech/2024/08/02/github-gist.html" />
-        
-        <news:news>
-            <news:publication>
-                <news:name>Cyber Privacy News</news:name>
-                <news:language>en</news:language>
-            </news:publication>
-            <news:title>My GitHub Gist on WhatsApp monitoring : Comprehensive Environment Installation Guide for Monitoring WhatsApp Activities</news:title>
-            <news:publication_date>2024-08-02T00:00:00+00:00</news:publication_date>
-        </news:news>
-        
-    </url>
-    
-
-    
-    
-    
-    
-    <url>
-        <loc>https://alexeinazarov.github.io/CyberPrivacyProtecTech/index_en/</loc>
-        <lastmod>2024-08-07T13:12:41+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.9</priority>
-        
-        
-        <custom:keywords>cybersecurity, privacy, data protection, consulting, Paris, Alexey Nazarov, CyberPrivacyProtecTech, digital security, cryptography, artificial intelligence, machine learning, data protection, security audit, penetration testing, MAC and IP address rotation, containerization, virtualization, sandboxing, encryption services, vulnerability analysis, smartphone privacy, cybersecurity consulting, cybersecurity in Paris, mobile device security, Android security, Android penetration testing, iOS security, mobile app security</custom:keywords>
-        
-        <custom:link rel="canonical" href="https://alexeinazarov.github.io/CyberPrivacyProtecTech/index_en/" />
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://alexeinazarov.github.io/CyberPrivacyProtecTech/index_pt/</loc>
-        <lastmod>2024-08-07T13:12:41+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.9</priority>
-        
-        
-        <custom:keywords>cibersegurança, privacidade, proteção de dados, consultoria, Paris, Alexey Nazarov, CyberPrivacyProtecTech, segurança digital, criptografia, inteligência artificial, machine learning, proteção de dados, auditoria de segurança, teste de penetração, rotação de endereços MAC e IP, conteinerização, virtualização, sandboxing, serviços de criptografia, análise de vulnerabilidades, privacidade de smartphones, consultoria em cibersegurança, cibersegurança em Paris, segurança de dispositivos móveis, segurança Android, teste de penetração Android, segurança iOS, segurança de aplicativos móveis</custom:keywords>
-        
-        <custom:link rel="canonical" href="https://alexeinazarov.github.io/CyberPrivacyProtecTech/index_pt/" />
-    </url>
-    
-    
-    
-    <url>
-        <loc>https://alexeinazarov.github.io/CyberPrivacyProtecTech/logo/</loc>
-        <lastmod>2024-08-07T13:12:41+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.9</priority>
-        
-        
-        <custom:keywords>CyberPrivacyProtecTech, digital security, central shield, robust protection, data guardian, cybersecurity measures, secure data handling, privacy protection, mobile security, smartphone security, encrypted data, unauthorized access prevention, invisible device security, global cybersecurity, space technology, cryptographic keys, secure access control, network security, cryptographic techniques, network infrastructure protection, Eiffel Tower, Paris technology influence, high technology, cultural excellence, localized cybersecurity solutions, crossed keys, classical heraldry, mathematical security, client data protection, trust and expertise, superior cybersecurity services, digital life protection, state-of-the-art technology, meticulous strategies, pure mathematics, cryptography expertise, Machine Learning, Artificial Intelligence, secure digital solutions, resilient cybersecurity, confidential data handling, mobile device security, battery symbol, lock symbol, global reach, precision security, reliable cybersecurity solutions, advanced encryption, secure network systems, educational excellence in technology, mathematically proven security, inviolable security measures, unwavering dedication, impartial mathematics, proven security principles, advanced technology, data privacy, cyber threats protection, comprehensive cybersecurity, personal information safety, professional information safety, design, art, creativity, artistic design, creative logo, emblem design, artistic elements, creative combinations, visual design, logo art, design aesthetics, artistic creativity, creative security design, innovative logo design, design principles, artful security logo, creative emblem, artistic creativity, design excellence, aesthetic design, artistic expression, creative imagery, visual creativity, artistic emblem, design innovation, creative symbolism, design artistry, artful emblem, creative design elements</custom:keywords>
-        
-        <custom:link rel="canonical" href="https://alexeinazarov.github.io/CyberPrivacyProtecTech/logo/" />
-    </url>
-    
-    
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    <url>
-        <loc>https://alexeinazarov.github.io/CyberPrivacyProtecTech/favicon.ico</loc>
-        <lastmod>2024-08-07T13:13:11+00:00</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.5</priority>
-        <custom:keywords>Favicon, CyberPrivacyProtecTech, cybersecurity, privacy, data protection, consulting, Paris, Alexey Nazarov</custom:keywords>
-        <image:image>
-            <image:loc>https://alexeinazarov.github.io/CyberPrivacyProtecTech/favicon.ico</image:loc>
-            <image:title>Favicon</image:title>
-            <image:caption>Favicon, CyberPrivacyProtecTech, cybersecurity, privacy, data protection, consulting, Paris, Alexey Nazarov</image:caption>
-        </image:image>
-        <custom:link rel="canonical" href="https://alexeinazarov.github.io/CyberPrivacyProtecTech/favicon.ico" />
-    </url>
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://alexeinazarov.github.io/CyberPrivacyProtecTech/2024/08/02/github-gist.html</loc>
+<lastmod>2024-08-04T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>https://alexeinazarov.github.io/CyberPrivacyProtecTech/</loc>
+<lastmod>2024-08-07T13:24:37+00:00</lastmod>
+</url>
+<url>
+<loc>https://alexeinazarov.github.io/CyberPrivacyProtecTech/index_en/</loc>
+<lastmod>2024-08-07T13:24:37+00:00</lastmod>
+</url>
+<url>
+<loc>https://alexeinazarov.github.io/CyberPrivacyProtecTech/index_pt/</loc>
+<lastmod>2024-08-07T13:24:37+00:00</lastmod>
+</url>
+<url>
+<loc>https://alexeinazarov.github.io/CyberPrivacyProtecTech/logo/</loc>
+<lastmod>2024-08-07T13:24:37+00:00</lastmod>
+</url>
 </urlset>
-
