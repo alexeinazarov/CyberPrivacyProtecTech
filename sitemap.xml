@@ -7,10 +7,10 @@
         xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd
                             http://www.google.com/schemas/sitemap-image/1.1 https://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd
                             http://www.google.com/schemas/sitemap-news/0.9 https://www.google.com/schemas/sitemap-news/0.9/sitemap-news.xsd
-                            https://alexeinazarov.github.io/schemas/custom_schema /tmp/custom_schema.xsd">
+                            https://alexeinazarov.github.io/schemas/custom_schema/custom_schema.xsd">
     <url>
         <loc>https://alexeinazarov.github.io/CyberPrivacyProtecTech/</loc>
-        <lastmod>2024-08-07T02:39:18+00:00</lastmod>
+        <lastmod>2024-08-07T02:43:48+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
         <image:image>
@@ -53,7 +53,7 @@
     
     <url>
         <loc>https://alexeinazarov.github.io/CyberPrivacyProtecTech/index_en/</loc>
-        <lastmod>2024-08-07T02:37:56+00:00</lastmod>
+        <lastmod>2024-08-07T02:42:24+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
         
@@ -67,7 +67,7 @@
     
     <url>
         <loc>https://alexeinazarov.github.io/CyberPrivacyProtecTech/index_pt/</loc>
-        <lastmod>2024-08-07T02:37:56+00:00</lastmod>
+        <lastmod>2024-08-07T02:42:24+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
         
@@ -97,7 +97,7 @@
     
     <url>
         <loc>https://alexeinazarov.github.io/CyberPrivacyProtecTech/favicon.ico</loc>
-        <lastmod>2024-08-07T02:38:21+00:00</lastmod>
+        <lastmod>2024-08-07T02:42:50+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
         <custom:keywords>Favicon, CyberPrivacyProtecTech, cybersecurity, privacy, data protection, consulting, Paris, Alexey Nazarov</custom:keywords>
