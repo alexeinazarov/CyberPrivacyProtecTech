@@ -10,7 +10,7 @@
                             https://alexeinazarov.github.io/schemas/custom_schema/custom_schema.xsd">
     <url>
         <loc>https://alexeinazarov.github.io/CyberPrivacyProtecTech/</loc>
-        <lastmod>2024-08-07T02:43:48+00:00</lastmod>
+        <lastmod>2024-08-07T02:58:55+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
         <image:image>
@@ -18,9 +18,11 @@
             <image:title>Cyber Privacy Protection Tech Logo</image:title>
             <image:caption>Logo of Cyber Privacy Protection Tech, conseil en cybersécurité personalisé à Paris.</image:caption>
         </image:image>
+        
         <custom:keywords>
-            cybersecurity, privacy, data protection, consulting, Paris, Alexey Nazarov, CyberPrivacyProtecTech
+            
         </custom:keywords>
+        
     </url>
 
     
@@ -53,7 +55,7 @@
     
     <url>
         <loc>https://alexeinazarov.github.io/CyberPrivacyProtecTech/index_en/</loc>
-        <lastmod>2024-08-07T02:42:24+00:00</lastmod>
+        <lastmod>2024-08-07T02:56:18+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
         
@@ -67,7 +69,7 @@
     
     <url>
         <loc>https://alexeinazarov.github.io/CyberPrivacyProtecTech/index_pt/</loc>
-        <lastmod>2024-08-07T02:42:24+00:00</lastmod>
+        <lastmod>2024-08-07T02:56:18+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
         
@@ -97,7 +99,7 @@
     
     <url>
         <loc>https://alexeinazarov.github.io/CyberPrivacyProtecTech/favicon.ico</loc>
-        <lastmod>2024-08-07T02:42:50+00:00</lastmod>
+        <lastmod>2024-08-07T02:57:55+00:00</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
         <custom:keywords>Favicon, CyberPrivacyProtecTech, cybersecurity, privacy, data protection, consulting, Paris, Alexey Nazarov</custom:keywords>
