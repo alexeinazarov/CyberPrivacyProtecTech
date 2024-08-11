@@ -8,12 +8,14 @@ gem "jekyll-feed"
 gem "jekyll-sitemap"
 gem "jekyll-include-cache"
 gem "jekyll-last-modified-at"
+gem "jekyll-redirect-from" # Added for managing redirects
 
 group :jekyll_plugins do
   gem "jekyll-feed"
   gem "jekyll-sitemap"
   gem "jekyll-include-cache"
   gem "jekyll-last-modified-at"
+  gem "jekyll-redirect-from" # Ensure the redirect plugin is included in the plugins group
 end
 
 # GitHub Pages Gem
